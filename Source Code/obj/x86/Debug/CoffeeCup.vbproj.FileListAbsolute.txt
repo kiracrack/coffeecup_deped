@@ -1,0 +1,1397 @@
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.exe.config
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbproj.ResolveComReference.cache
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.exe
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.xml
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.pdb
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.exe
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.pdb
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Data.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Data.Linq.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\WindowsBase.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Data.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDailyAccountingReports.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCardPaymentType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedVoucherConfirmation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountsFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAddGroup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAddItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalEntriesSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalDetails.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLManualTicket.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVouchersItemDetails.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVouchersInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPCheckPayment.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCheckDeposit.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVoucherSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountingTickets.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionCode.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelBreakdownSales.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdownAddItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdown.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate1.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelPackageItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomStatus.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetEmployeeLevel.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDepartments.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAttendanceFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLevel.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUpdateInventoryInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchQuantity.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutInventory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutItemsDetails.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStockoutRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeProductSupplier.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetProductSubCategory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSubCategory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductServiceMenuMaker.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersRealtimeAudit.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinics.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomFilters.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelReservation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomDiscount.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelSetVipGuest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelUpdateRoomStatus.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomComplementary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelTablesAndCottages.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeAttendancePassword.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollResigned.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollShift.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollEmployeeStatus.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollPosition.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePosition.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePositionInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeStatus.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollOffice.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConverterInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConvertion.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffDetails.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmLockInventoryCutoff.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEGenerateAccountablePDF.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEFieldSetup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFETypeManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivateNewExpiration.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivateEngine.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemDownloader.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.AdminModulePricing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptAccountsPayable.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPayrollPayslip.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPayrollSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptGeneralReportTemplate.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceView.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessPayslip.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceConsole.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendance.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAddingDedadd.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLoadAttendanceNotFound.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollCaptureAttendance.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollPeriod.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollHoliday.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddAllowances.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddDeductions.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDedAddType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDeductionRange.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollScheduleType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollShiftSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPaymentOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConfirmClosedPayables.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVouchersInformationForPO.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentRequestSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOMessage.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOUpdateInvoiceDetails.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrderProfile.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentApproved.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmForwardPO.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeApproving.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmForDisbursmentRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetProductCategory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuMaker.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetFFEAssetType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancelProductRegistration.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect4.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect3.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect2.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBarcodeTest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate4.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate3.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate2.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmIncomeStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPOSTransactionHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockClientAccount.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientPaymentHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientFilters.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelVipCard.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetClientFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientUserFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetClientGroup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBillingGenerator.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDBFileUploader.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDBFileViewer.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientGroup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelInterOfficeTransaction.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesDueFromCorporateOfficeTransaction.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQueueingSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesProductTransaction.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancel_invoices.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuItemReports.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQueuingGroup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetQueueGroup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportOption.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBackupTool.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeOwnPassword.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockedAccounts.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockedRequisition.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientConnetions.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccountEmailNotification.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDatabaseRepair.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReminderHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangePassword.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientAccess.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSudgestionBox.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemOwnerConfirmation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankAccounts.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAccountJournalEntry.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLChartofAccounts.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptBillingStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStatementOfAccount.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPVoucherPayables.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPayablesSelect.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPurchaseOrderPayables.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountPayableManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountsPayableStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectCreatePurchaseOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItemSelect.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSupplier.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportDeveloper.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportGenerator.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportMain.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportTemplate.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUpdateAdvancePaymentInvoices.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCurrentDueReceivable.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientTransactionHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedPurchaseOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmErrorCorrect_invoices.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankAccountStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCreditCard.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionClearing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersTransactionClearing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientPayment.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBillingStatement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStatementOfAccount.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesTransaction.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDiscount.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlotterVerification.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersBlotter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmShowPumpReading.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAdjustmentSales.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientProductFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientModification.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReadingComparison.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFuelTransactionLedger.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPumpReading.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPumpReading.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPumpSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGeneralSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConsolatedSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClient.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompOfficeInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientPermission.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemControl.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermissionInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermission.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAssetsDepreciation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUpdateDepreciationMode.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmMemoConfirm.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUnitAccountablePerson.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_AllocatedExpenses.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockHouse.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetStockHouse.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutQuantity.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.AdminModule.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequestProcessing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmComunicationBox.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseOrder.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPrintCheck.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCheckSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankTransactions.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCheckTransactions.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSummaryOfParticular.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUserLogs.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConnectionSetup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetAttachment.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmColumnFilter.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAbout.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivities.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAppearance.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeUser.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompanySettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompOffice.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGeneralSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmLogin.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConversation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPrmtEmployees.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmApprovingProcess.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUserProfile.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccounts.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportSettings.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutItemSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedItems.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEAccountabilityLog.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryFFESummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryConsumables.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_Consumables.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmManualInventoryHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_BillingsAndPayments.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSummaryOfCompanyExpenses.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSummaryLedger.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductPriceList.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate1.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorsProductInfo.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequestProfile.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAdvanceSearch.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTrashItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTrashPurchases.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancelRequestOption.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventoryStickerSmall.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventorySticker.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptMemorandumOfReceipt.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptVoucher.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptCheckPrint.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPaymentInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptCheckAndCardReport.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventorySummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStockoutSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestList.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHoldOnlineRequisition.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmOnlineRequisitionList.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorSummary.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmNewManualInventory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.Resources.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.MdiCoffeeCup.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryAdjustment.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorsManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorInformation.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockinHistory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedRequestList.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferNew.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPOCategory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQuantitySelect.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSelectRequestItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsItems.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProceedNewRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductCategory.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilAdjustment.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsManagement.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmNewRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseRequest.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.WaitForm1.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDailyTransactionReports.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangePrice.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportType.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSubItem.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConfirmedRequestProcessing.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReceivingReport.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptReceivedReport.resources
+D:\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.exe.config
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.exe
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.pdb
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Coffeecup.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Data.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.Extensions.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\WindowsBase.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Data.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraScheduler.v15.1.Extensions.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDailyTransactionReports.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCardPaymentType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedOtherTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedVoucherConfirmation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLCaptureChartofAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLTagChangeTransactionName.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLTagChangeCompany.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTAGDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLSourceTable.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLBrowseSourceTable.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionName.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountingSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountReportsGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountsFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAddGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAddItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalEntriesSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTAGManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTAGUpdateAccountTitle.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionCodeFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVoucherUpdateCheckDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVoucherOtherExpense.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUnliquidatedCashAdvance.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConfirmedVoucherProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVoucherPOSelect.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVouchersInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCheckDeposit.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVoucherSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountingTickets.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionCode.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelBreakdownSales.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdownAddItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdown.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate1.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelPackageItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetEmployeeLevel.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDepartments.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAttendanceFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLevel.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryBalanceForward.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUpdateInventoryInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDepEdAddFEE.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDepedFFESummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchQuantity.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutInventory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutItemsDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutBatchRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptCheckPrint.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptReceivedReport.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStockoutRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReceivingReport.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDepEdUpdateRequestStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConfirmedRequestProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangePrice.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeProductSupplier.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUpdateGLAccountTitle.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductCharges.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetProductSubCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSubCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductServiceMenuMaker.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersRealtimeAudit.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinics.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelReservation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomDiscount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelSetVipGuest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelUpdateRoomStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomComplementary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelTablesAndCottages.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeAttendancePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollResigned.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollShift.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollEmployeeStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollPosition.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePosition.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePositionInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollOffice.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConverterInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConvertion.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmLockInventoryCutoff.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEGenerateAccountablePDF.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEFieldSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFETypeManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivateNewExpiration.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivateEngine.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.AdminModulePricing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptAccountsPayable.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPayrollPayslip.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPayrollSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptGeneralReportTemplate.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceView.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessPayslip.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceConsole.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendance.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAddingDedadd.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLoadAttendanceNotFound.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollCaptureAttendance.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollPeriod.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollHoliday.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddAllowances.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddDeductions.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDedAddType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDeductionRange.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollScheduleType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPayrollShiftSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPaymentOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConfirmClosedPayables.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOMessage.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOUpdateInvoiceDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrderProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentApproved.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmForwardPO.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeApproving.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmForDisbursmentRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetProductCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuMaker.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetFFEAssetType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancelProductRegistration.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect4.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect3.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect2.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBarcodeTest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate4.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate3.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate2.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmIncomeStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPOSTransactionHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockClientAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientPaymentHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelVipCard.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetClientFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientUserFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetClientGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBillingGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDBFileUploader.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDBFileViewer.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHotelInterOfficeTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSubItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesDueFromCorporateOfficeTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQueueingSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesProductTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancel_invoices.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuItemReports.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQueuingGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetQueueGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportOption.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBackupTool.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeOwnPassword.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockedAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlockedRequisition.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientConnetions.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccountEmailNotification.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDatabaseRepair.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReminderHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientAccess.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSudgestionBox.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemOwnerConfirmation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAccountJournalEntry.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGLChartofAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptBillingStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStatementOfAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountPayableManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountsPayableStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectCreatePurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItemSelect.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductSupplier.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportDeveloper.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportMain.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportTemplate.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUpdateAdvancePaymentInvoices.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCurrentDueReceivable.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientTransactionHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmErrorCorrect_invoices.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankAccountStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCreditCard.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransactionClearing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersTransactionClearing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientPayment.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBillingStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStatementOfAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSalesTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductDiscount.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBlotterVerification.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCashiersBlotter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmShowPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAdjustmentSales.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientProductFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientModification.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmClientManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReadingComparison.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFuelTransactionLedger.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPumpSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClient.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompOfficeInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientPermission.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSystemControl.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermissionInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermission.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAssetsDepreciation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUpdateDepreciationMode.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmMemoConfirm.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUnitAccountablePerson.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_AllocatedExpenses.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockHouse.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetStockHouse.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutQuantity.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.AdminModule.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequestProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmComunicationBox.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPrintCheck.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBankSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCheckSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUserLogs.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSetAttachment.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmColumnFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAbout.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmActivities.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAppearance.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmChangeUser.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompanySettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCompOffice.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmGeneralSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmLogin.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmConversation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPrmtEmployees.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmApprovingProcess.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUserProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmReportSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutItemSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedItems.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmFFEAccountabilityLog.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryFFESummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryConsumables.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_Consumables.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmManualInventoryHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHistory_BillingsAndPayments.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductPriceList.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate1.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorsProductInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequestProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmAdvanceSearch.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTrashItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTrashPurchases.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmCancelRequestOption.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventoryStickerSmall.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventorySticker.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptMemorandumOfReceipt.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptVoucher.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPaymentInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptCheckAndCardReport.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptInventorySummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptStockoutSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestList.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmHoldOnlineRequisition.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmOnlineRequisitionList.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmStockoutType.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmNewManualInventory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.Resources.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.MdiCoffeeCup.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmInventoryAdjustment.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorsManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmVendorInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferedRequestList.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTransferNew.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmPOCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmQuantitySelect.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmSelectRequestItem.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsItems.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProceedNewRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmProductCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmUtilAdjustment.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmNewRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.WaitForm1.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.exe
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.xml
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.pdb
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmTrialBalance.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBalanceForward.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmBalanceSheet.resources
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Coffeecup\Source Code\obj\x86\Debug\Coffeecup.frmResetDatabase.resources
+C:\My Files\My.Net\System Core\BACKUP\Coffeecup\Source Code\bin\Debug\Coffeecup.exe.config
+C:\My Files\My.Net\System Core\BACKUP\Coffeecup\Source Code\obj\x86\Debug\CoffeeCup.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\Coffeecup.exe.config
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\Coffeecup.exe
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\Coffeecup.pdb
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\Coffeecup.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\WindowsBase.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraScheduler.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\CoffeeCup.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDailyTransactionReports.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCardPaymentType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedOtherTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedVoucherConfirmation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLCaptureChartofAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLTagChangeTransactionName.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLTagChangeCompany.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBalanceSheet.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmIncomeStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTrialBalance.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBalanceForward.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTAGDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLSourceTable.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLBrowseSourceTable.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionName.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountingSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountReportsGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountsFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAddGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAddItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalEntriesSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLJournalDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTAGManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTAGUpdateAccountTitle.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionCodeFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVoucherUpdateCheckDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVoucherOtherExpense.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUnliquidatedCashAdvance.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmConfirmedVoucherProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVoucherPOSelect.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVouchersInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCheckDeposit.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVoucherSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLAccountingTickets.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionCode.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelBreakdownSales.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdownAddItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRateBreakdown.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate1.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelPackageItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomRate.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetEmployeeLevel.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDepartments.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAttendanceFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLevel.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryBalanceForward.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUtilUpdateInventoryInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmEquipmentReport.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPulloutReturnItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPulloutForm.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDepEdAddFEE.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDepedFFESummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPulloutRecords.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedQuantity.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedInventory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedItemsDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportDesigner.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptDepedDesigner.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptDepedPanelView.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptCheckPrint.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptReceivedReport.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptStockoutRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReceivingReport.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDepEdUpdateRequestStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmConfirmedRequestProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangePrice.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangeProductSupplier.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUpdateGLAccountTitle.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductCharges.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetProductSubCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductSubCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductServiceMenuMaker.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductArticle.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCashiersRealtimeAudit.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClinics.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClinicsClientInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelReservation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomDiscount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelSetVipGuest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelGuestManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelUpdateRoomStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomComplementary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelRoomInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelTablesAndCottages.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangeAttendancePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollResigned.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollShift.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollEmployeeStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollPosition.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePosition.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmplyeePositionInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollEmployeeStatus.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPayrollOffice.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConverterInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUtilUnitConvertion.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryCutoffSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmLockInventoryCutoff.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmFFEGenerateAccountablePDF.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmFFEFieldSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmFFETypeManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmActivateNewExpiration.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmActivateEngine.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.AdminModulePricing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptAccountsPayable.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptPayrollPayslip.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptPayrollSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptGeneralReportTemplate.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceView.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessPayslip.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendanceConsole.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAttendance.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAddingDedadd.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollLoadAttendanceNotFound.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollCaptureAttendance.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollPeriod.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollHoliday.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddAllowances.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollAutoAddDeductions.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDedAddType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollDeductionRange.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollScheduleType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPayrollShiftSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPaymentOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmConfirmClosedPayables.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOMessage.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectPOUpdateInvoiceDetails.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrderProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAPPaymentApproved.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmForwardPO.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangeApproving.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmForDisbursmentRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetProductCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuMaker.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetFFEAssetType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCancelProductRegistration.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect4.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect3.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductDirect2.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBarcodeTest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPOSTransactionHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBlockClientAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientPaymentHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientFilters.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelVipCard.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetClientFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientUserFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetClientGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBillingGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDBFileUploader.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDBFileViewer.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHotelInterOfficeTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductSubItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSalesDueFromCorporateOfficeTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmQueueingSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSalesProductTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCancel_invoices.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductMenuItemReports.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmQueuingGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetQueueGroup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportOption.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBackupTool.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangeOwnPassword.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBlockedAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBlockedRequisition.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientConnetions.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmResetDatabase.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccountEmailNotification.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDatabaseRepair.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReminderHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientAccess.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSudgestionBox.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSystemOwnerConfirmation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBankAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAccountJournalEntry.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGLChartofAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptBillingStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptStatementOfAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountPayableManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAPAccountsPayableStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectCreatePurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmDirectPurchaseOrderItemSelect.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductSupplier.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportDeveloper.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportGenerator.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportMain.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportTemplate.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUpdateAdvancePaymentInvoices.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCurrentDueReceivable.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientTransactionHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmErrorCorrect_invoices.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBankAccountStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVerifiedCreditCard.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransactionClearing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCashiersTransactionClearing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientPayment.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBillingStatement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStatementOfAccount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSalesTransaction.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductDiscount.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBlotterVerification.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCashiersBlotter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmShowPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAdjustmentSales.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientProductFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientModification.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmClientManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReadingComparison.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmFuelTransactionLedger.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetPumpReading.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPumpSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClient.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCompOfficeInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupClientPermission.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSystemControl.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermissionInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCoffeecupServerPermission.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAssetsDepreciation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUpdateDepreciationMode.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmMemoConfirm.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUnitAccountablePerson.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHistory_AllocatedExpenses.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockHouse.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetStockHouse.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutQuantity.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.AdminModule.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmRequestProcessing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmComunicationBox.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseOrder.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPrintCheck.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmBankSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCheckSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUserLogs.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSetAttachment.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmColumnFilter.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAbout.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmActivities.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAppearance.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmChangeUser.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCompanySettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCompOffice.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmGeneralSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmLogin.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmConversation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPrmtEmployees.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmApprovingProcess.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUserProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUsersAccounts.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmReportSettings.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutDepedItemSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransferedItems.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransferedInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmFFEAccountabilityLog.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryFFESummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryConsumables.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHistory_Consumables.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmManualInventoryHistory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHistory_BillingsAndPayments.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductPriceList.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductTemplate1.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVendorsProductInfo.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmRequestProfile.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmAdvanceSearch.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTrashItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTrashPurchases.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmCancelRequestOption.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptInventoryStickerSmall.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptInventorySticker.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptMemorandumOfReceipt.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptVoucher.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptPaymentInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptCheckAndCardReport.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptInventorySummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptStockoutSummary.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestList.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductRequestInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmHoldOnlineRequisition.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmOnlineRequisitionList.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmStockoutType.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmNewManualInventory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.Resources.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.MdiCoffeeCup.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmInventoryAdjustment.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVendorsManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmVendorInformation.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransferedRequestList.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmTransferNew.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmPOCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmQuantitySelect.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmSelectRequestItem.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsItems.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProceedNewRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmProductCategory.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUtilAdjustment.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmRequisitionsManagement.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmNewRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.rptPurchaseRequest.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.WaitForm1.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\CoffeeCup.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.exe
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.xml
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.pdb
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUpdateVotersListing.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmEquipmentModel.resources
+C:\My Files\My.Net\System Core\Coffeecup Deped\Source Code\obj\x86\Debug\Coffeecup.frmUpdateBatchEquipment.resources

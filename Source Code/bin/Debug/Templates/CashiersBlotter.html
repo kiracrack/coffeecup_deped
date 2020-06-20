@@ -1,0 +1,84 @@
+<!DOCTYPE html> 
+ <html> 
+ <head> 
+ <STYLE type="text/css">
+ body{ margin:0 auto;  font-family: Arial; font-size: 12px; } 
+#tabl {border-collapse: collapse; width: 700px; border: 1px solid #d1d1d1; margin-bottom: 2px}
+#tabl_sub {border-collapse: collapse ;   }
+#tabl_sub_border {border-collapse: collapse ;   }
+#tabl td, th {border: 0px solid #d1d1d1;padding: 1px 5px;}
+#tabl_sub td, th {border: 0px solid #d1d1d1;padding: 1px 5px;}
+#tabl_sub_border td, th {border: 1px solid #d1d1d1;padding: 3px 5px;}
+
+ p{font-size: 14px; }
+ strong{font-size: 16px; }
+ 
+ #container {
+	width: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.content {
+	float: left;
+}
+#tabl .info {
+	padding: 5px;
+	font-weight: bold;
+	padding-left: 10px;
+
+}
+table tr{
+	page-break-inside: avoid;
+}
+
+</style>
+
+ </head> 
+ <body> 
+ <div id="container">
+	<div class="content">
+ [logo]
+<div>[report header]</div>
+
+<table border='1' id='tabl'>
+	<tr style=' border-bottom: 1px solid #d1d1d1;'><td colspan='2' align='center' class='info'><h3 align="center">CASHIER'S BLOTTER SUMMARY</h3></td></tr>
+	<tr style='border-bottom: 1px solid #d1d1d1; margin: 1px'>
+		<tr style='border-bottom: 1px solid #d1d1d1;margin: 1px'><td style=" padding: 10px; " colspan="2">Transaction NO. 3019<span style="float: right">Office: [office]</span><br/> Cashier: <b>[cashier]</b><span style="float: right">Date Open: [datetrn]</span><br/> Beggining Cash: [cashbeg]<span style="float: right">Date Closed: [dateclosed]</span></td></tr>
+		<td style='margin:0; padding: 10px;vertical-align:top;' width='50%'>
+			<table border='0' id='tabl_sub' width='100%' cellspacing='0' cellpadding='0'>
+				 [left_transaction]
+			</table>
+		</td>
+		<td style='margin:0; padding: 10px;vertical-align:top;' width='50%'>
+			<table  border='0' id='tabl_sub_border' width='100%'  cellspacing='0' cellpadding='0'>
+				<tr align='center' style='font-weight: bold;text-decoration: underline;'><td>DESCRIPTION</td><td>AMOUNT</td></tr>
+				[right_transaction]
+			</table>
+		</td>
+	</tr>
+
+</table>
+
+<div style="float: left;  width:300px; margin-top:50px">
+	<p align="left">Prepared By: </br></br></br>
+	<font style="text-decoration: underline;">[prepared by]</font></br>
+	[prepared position]</p>
+</div>
+ 
+</div>
+<div>
+</body> 
+ </html>
+
+ 
+
+
+
+
+
+
+
+
+
+

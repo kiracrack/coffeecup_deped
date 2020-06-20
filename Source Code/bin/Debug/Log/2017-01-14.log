@@ -1,0 +1,13 @@
+2017-01-14 12:39:03 AM	MySQL server localhost successfully Connected
+2017-01-14 12:39:04 AM	Coffeecup mail service started
+2017-01-14 12:41:16 AM	Coffeecup mail service Stop
+2017-01-14 12:41:27 AM	MySQL server localhost successfully Connected
+2017-01-14 12:41:28 AM	Coffeecup mail service started
+2017-01-14 12:41:58 AM	System date updated to 2017-01-14
+2017-01-14 02:08:54 AM	Coffeecup mail service Stop
+2017-01-14 02:09:01 AM	MySQL server localhost successfully Connected
+2017-01-14 02:09:02 AM	Coffeecup mail service started
+2017-01-14 02:11:32 AM	Sending Coffeecup Sales Report 2017-01-14 email notification to kiesh_16@yahoo.co.uk,winterbugahod@yahoo.com
+2017-01-14 02:11:32 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-01-14 02:11:50 AM	Coffeecup Sales Report 2017-01-14 was successfully sent
+2017-01-14 02:25:11 AM	Coffeecup mail service Stop

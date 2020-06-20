@@ -1,0 +1,50 @@
+﻿Installing assembly 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.InstallLog
+   assemblypath = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe
+Installing service Coffeccup Mail Service...
+Service Coffeccup Mail Service has been successfully installed.
+Creating EventLog source Coffeccup Mail Service in log Application...
+Committing assembly 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.InstallLog
+   assemblypath = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe
+Uninstalling assembly 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe
+   logfile = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.InstallLog
+Removing EventLog source Coffeecup.
+Warning: The source Coffeecup is not registered on the local machine.
+Service Coffeecup is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe
+   logfile = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.InstallLog
+Installing service Coffeecup...
+Service Coffeecup has been successfully installed.
+Creating EventLog source Coffeecup in log Application...
+Committing assembly 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.exe
+   logfile = D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\CoffeecupServices.InstallLog
+Installing assembly 'C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.exe
+   logfile = C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.InstallLog
+Installing service Coffeecup...
+Service Coffeecup has been successfully installed.
+Creating EventLog source Coffeecup in log Application...
+Committing assembly 'C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.exe
+   logfile = C:\My Files\My.Net\System Core\Coffeecup\Source Code\bin\Debug\CoffeecupServices.InstallLog

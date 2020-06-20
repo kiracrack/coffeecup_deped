@@ -1,0 +1,97 @@
+<!DOCTYPE html> 
+ <html> 
+ <head> 
+ <STYLE type="text/css">
+ body{ margin:0 auto;  font-family: Arial; font-size: 12px; } 
+ table {border-collapse: collapse ; border: 1px solid #d1d1d1; }
+ td, th {border: 1px solid black;padding: 2px 5px; border: 1px solid #d1d1d1;}
+ p{font-size: 12px; }
+ strong{font-size: 16px; }
+ h1, h2, h3, h4{margin:0;}
+ #container {
+	width: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.content {
+	float: left;
+}
+table{
+	page-break-inside: avoid;
+}
+ 
+</style>
+
+ </head> 
+ <body> 
+ <div id="container">
+	<div class="content">
+<table border='1' style='width:700px; margin:3px 0' cellpadding='4' cellspacing='0' style='border-collapse:collapse;'>  
+<tr> 
+	<td align="center" height="25px" width="450" colspan="3" rowspan="2" ><br/><br/><h1>DISBURSEMENT VOUCHER</h1><h3>[companyname]</h3><br/><br/></td>
+	<td align="left" width="170"><b><span style="vertical-align: top; float:left">DV No.</span><br/><span style="font-size: 18px; vertical-align: middle center;">[voucherno]</span></b></td>
+</tr> 
+<tr> 
+	<td align="left"><span style="vertical-align: top; float:left">Date:</span><br/> [voucherdate]</td>
+</tr>
+ 
+<tr> 
+	<td align="center" height="60" colspan="4">
+		<p><strong><em>CLASIFICATION OF PAYMENT</em></strong></p> 
+		<input type="checkbox" [check_payment] style=" width:1.8em;height:1.8em; border:none;vertical-align: middle;" onclick="return false;"> Check Payment 
+		<input type="checkbox" [cash_payment] style="width:1.8em;height:1.8em; border:none;vertical-align: middle; margin-left: 30px;" onclick="return false;"> Cash Payment 
+		<input type="checkbox" [cash_advance] style="width:2em;height:2em;   border:none;vertical-align: middle;margin-left: 30px;" onclick="return false;"> Cash Advance</td>
+</tr>  
+<tr> 
+	<td width="50%" style="vertical-align: top;" height="35" colspan="2">Name of Claimant:<br/><h3>[suppliername]</h3></td>
+ 	<td style="vertical-align: top;" height="35" colspan="2">[suppliertitle]:<br/><h4>[supplieraddress]</h4></td>
+</tr>
+</table>
+<table border='1' style='width:700px; margin:3px 0' cellpadding='0' cellspacing='0' style='border-collapse:collapse;'> 
+<tr > 
+	<td colspan="5" align="center" style="padding: 10px 0px;"><b>P A R T I C U L A R S</b></td>
+</tr> 
+[voucher_item]
+</table>
+<table border='1' style='width:700px; margin:3px 0' cellpadding='4' cellspacing='0' style='border-collapse:collapse;'> 
+	<tr > 
+	<td colspan="5" align="center" style="padding: 5px 0px;"><b>S I G N A T O R I E S</b></td>
+</tr> 
+<tr > 
+	<td style="vertical-align: top; padding:3px;" width="233" align="left" >
+		<span style="float: left;"><span style="border: 1px solid #d1d1d1; padding: 1px 4px;">A</span><b> Prepared By:</b></span> <br/><br/><div style=" font-size: 12px; width: 100%; text-align: center;">[preparedsig]<br/><b><u>[preparedby]</u></b><br/>[preparedposition]</div></div>
+	</td>
+	<td style="vertical-align: top; padding:3px; " width="233" ><span style="float: left;"><span style="border: 1px solid #d1d1d1; padding: 1px 4px;">B</span><b> [approvertitle1]:</b></span> <br/><br/><div style=" font-size: 12px; width: 100%; text-align: center;">[approversig1]<br/><b><u>[approvername1]</u></b><br/>[approverposition1]</div>
+	</td>
+	<td style="vertical-align: top; padding:3px;"  width="233" colspan="2"><span style="border: 1px solid #d1d1d1; padding: 1px 4px;">C</span><b> Check Details:</b><br/><br/>
+					<table style="border: none;" >
+					<tr>
+						<td style="border: none;" align="center" rowspan="3"><span style="margin: 0px; padding:0px;font-size:35px;vertical-align: middle;">&#10152;</span></td>
+						<td style="border: none;">Check No. <b><u>[checkno]</u></b></td>
+					</tr>
+					<tr>
+						<td style="border: none;">Bank Name: <b><u>[bankname]</u></b></td>
+					</tr>
+					<tr>
+						<td style="border: none;">Date: <b><u>[checkdate]</u></b></td>
+					</tr>
+				</table><br/><br/></td>
+</tr> 
+<tr> 
+	<td style="vertical-align: top; padding:3px;" width="233" align="left" colspan="2" ><span style="float: left;"><span style="border: 1px solid #d1d1d1; padding: 1px 4px;">D</span><b> [approvertitle2]</b></span><br/><br/><div style=" font-size: 12px; width: 100%; text-align: center;">[approversig2]<br/><b><u>[approvername2]</u></b><br/>[approverposition2]</div></td>
+
+	<!--<td style="vertical-align: top; padding:3px;" width="233" align="left" colspan="2" ><span style="float: left;"><span style="border: 1px solid black; padding: 1px 4px;">D</span><b> approvertitle3</b></span> <br/><br/><div style=" font-size: 12px; width: 100%; text-align: center;">[approversig2]<br/><b><u>[approvername3]</u></b><br/>[approverposition3]</div></td>-->
+
+	<td style="vertical-align: top; padding:3px;"  width="233" colspan="2"><span style="border: 1px solid #d1d1d1; padding: 1px 4px;">E</span><b> Received Payment:  </b><br/><br/><br/><br/><br/><div style=" font-size: 12px; width: 100%; text-align: center;"><b><u>[suppliername]</u></b><br/>Signature Over Printed Name</div></td>
+</tr> 
+</table>
+
+ 
+</div>
+<div>
+</body> 
+ </html>
+
+ 
+

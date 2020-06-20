@@ -1,0 +1,364 @@
+2017-06-23 10:41:59 AM	MySQL server localhost successfully Connected
+2017-06-23 10:41:59 AM	Coffeecup mail service started
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending FOR APPROVAL PURCHASE REQUEST  (R130-20170622-1) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10015) email notification to winterbugahod@yahoo.com,
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:42:29 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:43:12 AM	Failure sending mail.
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending FOR APPROVAL PURCHASE REQUEST  (R130-20170622-1) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10015) email notification to winterbugahod@yahoo.com,
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:43:29 AM	The process cannot access the file 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\Log\2017-06-23.log' because it is being used by another process.
+2017-06-23 10:43:31 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:44:13 AM	Failure sending mail.
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending FOR APPROVAL PURCHASE REQUEST  (R130-20170622-1) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending PURCHASE ORDER FOR APPROVAL (10015) email notification to winterbugahod@yahoo.com,
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:29 AM	Sending ACCOUNTS PAYABLE APPROVED (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:44:59 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:45:41 AM	Failure sending mail.
+2017-06-23 10:45:43 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:46:25 AM	Failure sending mail.
+2017-06-23 10:46:27 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:47:09 AM	Failure sending mail.
+2017-06-23 10:47:11 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:47:53 AM	Failure sending mail.
+2017-06-23 10:47:55 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:48:37 AM	Failure sending mail.
+2017-06-23 10:48:39 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:49:21 AM	Failure sending mail.
+2017-06-23 10:49:23 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:50:05 AM	Failure sending mail.
+2017-06-23 10:50:07 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:50:49 AM	Failure sending mail.
+2017-06-23 10:50:59 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:50:59 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:50:59 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:50:59 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:50:59 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:51:41 AM	Failure sending mail.
+2017-06-23 10:51:43 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:52:25 AM	Failure sending mail.
+2017-06-23 10:52:27 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:53:09 AM	Failure sending mail.
+2017-06-23 10:53:11 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:53:53 AM	Failure sending mail.
+2017-06-23 10:53:55 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:54:37 AM	Failure sending mail.
+2017-06-23 10:54:39 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:55:21 AM	Failure sending mail.
+2017-06-23 10:55:23 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:56:05 AM	Failure sending mail.
+2017-06-23 10:56:07 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:56:49 AM	Failure sending mail.
+2017-06-23 10:56:51 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:57:33 AM	Failure sending mail.
+2017-06-23 10:57:35 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:57:40 AM	Coffeecup mail service Stop
+2017-06-23 10:58:25 AM	MySQL server localhost successfully Connected
+2017-06-23 10:58:25 AM	Coffeecup mail service started
+2017-06-23 10:58:55 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 10:58:55 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 10:58:55 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:58:55 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 10:58:55 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 10:59:37 AM	Failure sending mail.
+2017-06-23 10:59:39 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:00:22 AM	Failure sending mail.
+2017-06-23 11:00:24 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:00:33 AM	Failure sending mail.
+2017-06-23 11:00:35 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:01:17 AM	Failure sending mail.
+2017-06-23 11:01:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:01:25 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:02:07 AM	Failure sending mail.
+2017-06-23 11:02:09 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:02:51 AM	Failure sending mail.
+2017-06-23 11:02:53 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:03:35 AM	Failure sending mail.
+2017-06-23 11:03:37 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:04:19 AM	Failure sending mail.
+2017-06-23 11:04:21 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:05:04 AM	Failure sending mail.
+2017-06-23 11:05:06 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:05:48 AM	Failure sending mail.
+2017-06-23 11:05:50 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:06:32 AM	Failure sending mail.
+2017-06-23 11:06:34 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:07:16 AM	Failure sending mail.
+2017-06-23 11:07:18 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:08:00 AM	Failure sending mail.
+2017-06-23 11:08:02 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:08:44 AM	Failure sending mail.
+2017-06-23 11:08:46 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:09:28 AM	Failure sending mail.
+2017-06-23 11:09:30 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:10:12 AM	Failure sending mail.
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE APPROVED (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE APPROVED (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending FOR APPROVAL PURCHASE REQUEST  (R130-20170622-1) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending PURCHASE ORDER FOR APPROVAL (10015) email notification to winterbugahod@yahoo.com,
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:25 AM	Sending ACCOUNTS PAYABLE APPROVED (10061) email notification to winterbugahod@yahoo.com
+2017-06-23 11:10:26 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:28 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:30 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:32 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:34 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:36 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:38 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:40 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:42 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:44 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:46 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:48 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:50 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:52 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:54 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:56 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:10:58 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:00 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:02 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:04 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:06 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:08 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:10 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:12 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:14 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:16 AM	The parameter 'address' cannot be an empty string.
+Parameter name: address
+2017-06-23 11:11:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 11:11:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 11:11:25 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:12:07 AM	Failure sending mail.
+2017-06-23 11:12:09 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:12:51 AM	Failure sending mail.
+2017-06-23 11:12:53 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:13:35 AM	Failure sending mail.
+2017-06-23 11:13:37 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:14:20 AM	Failure sending mail.
+2017-06-23 11:14:22 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:15:04 AM	Failure sending mail.
+2017-06-23 11:15:06 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:15:48 AM	Failure sending mail.
+2017-06-23 11:15:50 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:16:32 AM	Failure sending mail.
+2017-06-23 11:16:34 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:17:16 AM	Failure sending mail.
+2017-06-23 11:17:18 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:18:00 AM	Failure sending mail.
+2017-06-23 11:18:02 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:18:44 AM	Failure sending mail.
+2017-06-23 11:18:46 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:19:28 AM	Failure sending mail.
+2017-06-23 11:19:30 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:20:12 AM	Failure sending mail.
+2017-06-23 11:20:14 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:20:56 AM	Failure sending mail.
+2017-06-23 11:20:58 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:21:40 AM	Failure sending mail.
+2017-06-23 11:21:42 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:22:24 AM	Failure sending mail.
+2017-06-23 11:22:26 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:23:08 AM	Failure sending mail.
+2017-06-23 11:23:10 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:23:52 AM	Failure sending mail.
+2017-06-23 11:23:54 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:24:36 AM	Failure sending mail.
+2017-06-23 11:24:38 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:25:20 AM	Failure sending mail.
+2017-06-23 11:25:22 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:26:04 AM	Failure sending mail.
+2017-06-23 11:26:06 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:26:48 AM	Failure sending mail.
+2017-06-23 11:26:50 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:27:32 AM	Failure sending mail.
+2017-06-23 11:27:34 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:28:16 AM	Failure sending mail.
+2017-06-23 11:28:18 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:29:00 AM	Failure sending mail.
+2017-06-23 11:29:02 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:29:44 AM	Failure sending mail.
+2017-06-23 11:29:46 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:30:28 AM	Failure sending mail.
+2017-06-23 11:30:30 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:31:12 AM	Failure sending mail.
+2017-06-23 11:31:14 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:31:56 AM	Failure sending mail.
+2017-06-23 11:32:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 11:32:25 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 11:32:25 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:33:07 AM	Failure sending mail.
+2017-06-23 11:33:09 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:33:51 AM	Failure sending mail.
+2017-06-23 11:33:53 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:34:36 AM	Failure sending mail.
+2017-06-23 11:34:38 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:35:20 AM	Failure sending mail.
+2017-06-23 11:35:22 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:36:04 AM	Failure sending mail.
+2017-06-23 11:36:06 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:36:48 AM	Failure sending mail.
+2017-06-23 11:36:50 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:37:32 AM	Failure sending mail.
+2017-06-23 11:37:34 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:38:16 AM	Failure sending mail.
+2017-06-23 11:38:18 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:39:00 AM	Failure sending mail.
+2017-06-23 11:39:02 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:39:44 AM	Failure sending mail.
+2017-06-23 11:39:46 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:40:28 AM	Failure sending mail.
+2017-06-23 11:40:30 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:41:12 AM	Failure sending mail.
+2017-06-23 11:41:14 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:41:56 AM	Failure sending mail.
+2017-06-23 11:41:58 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:42:40 AM	Failure sending mail.
+2017-06-23 11:42:42 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:43:24 AM	Failure sending mail.
+2017-06-23 11:43:26 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:44:08 AM	Failure sending mail.
+2017-06-23 11:44:10 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:44:52 AM	Failure sending mail.
+2017-06-23 11:44:54 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:45:36 AM	Failure sending mail.
+2017-06-23 11:45:38 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:46:20 AM	Failure sending mail.
+2017-06-23 11:46:22 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:47:04 AM	Failure sending mail.
+2017-06-23 11:47:06 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:47:49 AM	Failure sending mail.
+2017-06-23 11:47:51 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:48:33 AM	Failure sending mail.
+2017-06-23 11:48:35 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:49:17 AM	Failure sending mail.
+2017-06-23 11:49:19 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:50:01 AM	Failure sending mail.
+2017-06-23 11:50:03 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:50:45 AM	Failure sending mail.
+2017-06-23 11:50:47 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:51:29 AM	Failure sending mail.
+2017-06-23 11:51:31 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:52:13 AM	Failure sending mail.
+2017-06-23 11:52:15 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:52:57 AM	Failure sending mail.
+2017-06-23 11:52:59 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:53:41 AM	Failure sending mail.
+2017-06-23 11:53:43 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:54:26 AM	Failure sending mail.
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10045) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10046) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER FOR APPROVAL (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER APPROVED (10013) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER FOR APPROVAL (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending PURCHASE ORDER APPROVED (10014) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE FOR APPROVAL (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE APPROVED (10054) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending ACCOUNTS PAYABLE APPROVED (10056) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	Sending FOR APPROVAL PURCHASE REQUEST  (R130-20170622-1) email notification to winterbugahod@yahoo.com
+2017-06-23 11:54:56 AM	The process cannot access the file 'D:\My.Net\System Core\Coffeecup Server\Source Code\bin\Debug\Log\2017-06-23.log' because it is being used by another process.
+2017-06-23 11:54:58 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:55:40 AM	Failure sending mail.
+2017-06-23 11:55:42 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:56:24 AM	Failure sending mail.
+2017-06-23 11:56:26 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:57:08 AM	Failure sending mail.
+2017-06-23 11:57:10 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:57:52 AM	Failure sending mail.
+2017-06-23 11:57:54 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:58:37 AM	Failure sending mail.
+2017-06-23 11:58:39 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 11:59:21 AM	Failure sending mail.
+2017-06-23 11:59:23 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 12:00:05 PM	Failure sending mail.
+2017-06-23 12:00:07 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-06-23 12:00:10 PM	Coffeecup mail service Stop

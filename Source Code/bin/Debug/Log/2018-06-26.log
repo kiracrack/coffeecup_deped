@@ -1,0 +1,30 @@
+2018-06-26 12:00:10 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:00:10 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:00:15 AM	Booking Confirmation was successfully sent
+2018-06-26 12:14:42 AM	Coffeecup mail service Stop
+2018-06-26 12:14:50 AM	MySQL server localhost successfully Connected
+2018-06-26 12:14:50 AM	Coffeecup mail service started
+2018-06-26 12:15:20 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:15:20 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:15:30 AM	Failure sending mail.
+2018-06-26 12:15:50 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:15:50 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:16:00 AM	Failure sending mail.
+2018-06-26 12:16:02 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:16:02 AM	Failure sending mail.
+2018-06-26 12:16:20 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:16:20 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:16:31 AM	Booking Confirmation was successfully sent
+2018-06-26 12:24:51 AM	Coffeecup mail service Stop
+2018-06-26 12:24:59 AM	MySQL server localhost successfully Connected
+2018-06-26 12:24:59 AM	Coffeecup mail service started
+2018-06-26 12:26:29 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:26:29 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:26:35 AM	Booking Confirmation was successfully sent
+2018-06-26 12:45:00 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 12:45:00 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 12:45:05 AM	Booking Confirmation was successfully sent
+2018-06-26 01:09:00 AM	Sending Booking Confirmation email notification to winterbugahod@yahoo.com
+2018-06-26 01:09:00 AM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2018-06-26 01:09:06 AM	Booking Confirmation was successfully sent
+2018-06-26 01:41:34 AM	Coffeecup mail service Stop
